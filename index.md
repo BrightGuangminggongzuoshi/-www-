@@ -33,5 +33,54 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guangminggongzhushi/-www-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
+[](url)
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https[](url):https://brightguangminggongzuoshi.github.io/-www-/">
+<html xmlns="https://brightguangminggongzuoshi.github.io/-www-/">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+        <title>         </title>
+        <style type="text/css">
+            body {
+                padding: 0;
+                margin: 0 auto;
+            }
+
+            #footer {
+                height: 40px;
+                line-height: 40px;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+                text-align: center;
+                background: #333;
+                color: #fff;
+                font-family: Arial;
+                font-size: 12px;
+                letter-spacing: 1px;
+            }
+
+            .content {
+                height: 1800px;
+                width: 100%;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <!--
+            作者：guangming
+            时间：2021-03-24
+            描述：版权信息
+        -->
+       <div id="footer">CopyRight@copy2021 </div>
+    </body>
+</html>
+
