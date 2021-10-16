@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ###      . .                  
 
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://brightguangminggongzuoshi.github.io/-www-/">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
         <title>         </title>
