@@ -37,21 +37,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-
-  
-
-###      . .                  
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://brightguangminggongzuoshi.github.io/-www-/">
+#      
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-        <title>         </title>
+        <title>       /title>
         <style type="text/css">
             body {
                 padding: 0;
                 margin: 0 auto;
             }
-
+ 
             #footer {
                 height: 40px;
                 line-height: 40px;
@@ -65,7 +62,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
                 font-size: 12px;
                 letter-spacing: 1px;
             }
-
+ 
             .content {
                 height: 1800px;
                 width: 100%;
@@ -74,12 +71,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         </style>
     </head>
     <body>
-        <!--
-            作者：guangming
-            时间：2021-03-24
-            描述：版权信息
-        -->
-       <div id="footer">最终解释权归 @光明工作室所有 ©光明工作室 CopyRight@copy2021 </div>
+       <div id="footer">CopyRight@copy2021</div>
     </body>
 </html>
-
