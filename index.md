@@ -37,40 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-#      
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-        <title>       /title>
-        <style type="text/css">
-            body {
-                padding: 0;
-                margin: 0 auto;
-            }
- 
-            #footer {
-                height: 40px;
-                line-height: 40px;
-                position: fixed;
-                bottom: 0;
-                width: 100%;
-                text-align: center;
-                background: #333;
-                color: #fff;
-                font-family: Arial;
-                font-size: 12px;
-                letter-spacing: 1px;
-            }
- 
-            .content {
-                height: 1800px;
-                width: 100%;
-                text-align: center;
-            }
-        </style>
-    </head>
-    <body>
-       <div id="footer">CopyRight@copy2021</div>
-    </body>
-</html>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<title> /title&gt; &lt;style type="text/css"&gt; body { padding: 0; margin: 0 auto; } #footer { height: 40px; line-height: 40px; position: fixed; bottom: 0; width: 100%; text-align: center; background: #333; color: #fff; font-family: Arial; font-size: 12px; letter-spacing: 1px; } .content { height: 1800px; width: 100%; text-align: center; } &lt;/style&gt; &lt;/head&gt; &lt;body&gt; &lt;div id="footer"&gt;CopyRight@copy2021&lt;/div&gt; &lt;/body&gt; &lt;/html&gt; </title>
